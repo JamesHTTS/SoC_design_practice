@@ -9,7 +9,7 @@
 *.runs/
 *.sim/
 *.srcs/utils_1/
-
+*:Zone.Identifier
 # Compilation and bitstream outputs (선택 사항: 결과물까지 올리고 싶다면 제외)
 *.bit
 *.bin
