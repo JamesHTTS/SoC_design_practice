@@ -1,0 +1,16 @@
+# Vivado temporary files
+*.jou
+*.log
+*.str
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/utils_1/
+
+# Compilation and bitstream outputs (선택 사항: 결과물까지 올리고 싶다면 제외)
+*.bit
+*.bin
+*.gen/
